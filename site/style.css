@@ -1,0 +1,42 @@
+*
+{
+    font-family: 'Monoton', cursive;
+    box-sizing: border-box;
+    margin: 5;
+    padding: 5;
+    background-color: aqua;
+   
+  
+
+}
+.teste{
+    color: rgb(0, 81, 255);
+    text-align: center;
+   
+}
+.teste1{
+   
+    
+}
+.imagem{
+   text-align: center;
+   width: ;
+   
+  
+ 
+}
+background-image: url( https://th.bing.com/th/id/OIP.Borwp-ohxQQf_-83G5AKaAHaEo?w=280&h=180&c=7&r=0&o=5&pid=1.7;)
+.titil{
+    background-color: black;
+}
+.navbar{
+    background: #131313;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
